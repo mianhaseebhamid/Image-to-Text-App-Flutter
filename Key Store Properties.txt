@@ -1,0 +1,13 @@
+Password: Haseeb@yahoo1
+
+Alias: key1
+
+First and Last Name: Haks Studio
+
+Oraganization & Unit: 1 Haks Studio
+
+City: Multan
+
+Province: Punjab
+
+Country Code: 92
